@@ -10,8 +10,8 @@ project:
 website:
   title: "Radyssey"
   description: "Free interactive radiology lessons for residents: real images, overlays you can move, and self-tests."
-  # RSS and share links use this. Change to https://radyssey.com/lessons when the domain is connected.
-  site-url: https://radyssey.github.io/lessons
+  # RSS and share links use this. The company site on Vercel rewrites /lessons/* to GitHub Pages.
+  site-url: https://www.radyssey.com/lessons
   favicon: favicon.svg
   search: true
   open-graph: true
@@ -20,7 +20,7 @@ website:
       - text: Lessons
         href: index.qmd
       - text: Radyssey
-        href: https://radyssey.github.io/
+        href: https://www.radyssey.com/
       - about.qmd
       - icon: rss
         href: index.xml
@@ -29,7 +29,7 @@ website:
     left: "For education only, not clinical advice."
     right:
       - text: "Suggest a topic or report an error"
-        href: "https://github.com/Radyssey/lessons/issues/new?title=Suggestion%3A%20&body=What%20would%20you%20like%20to%20see%2C%20or%20what%20is%20wrong%3F%0A%0APage%3A%20"
+        href: "https://github.com/smhasan-yad/lessons/issues/new?title=Suggestion%3A%20&body=What%20would%20you%20like%20to%20see%2C%20or%20what%20is%20wrong%3F%0A%0APage%3A%20"
 
 format:
   html:

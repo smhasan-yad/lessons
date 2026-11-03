@@ -5,7 +5,7 @@ and piped straight into ffmpeg (H.264 + a silent AAC track), so no frames touch 
 
 Run from anywhere, with the project venv:
   C:\\venvs\\RadLearn_Blog\\Scripts\\python.exe -I video\\make_video.py
-  ... --formats vertical --url radyssey.github.io --stills 4,10,17,24,30,37,42
+  ... --formats vertical --url radyssey.com/lessons --stills 4,10,17,24,30,37,42
 Options:
   --formats   vertical, square or both (default both)
   --url       the address shown on the closing card
@@ -34,7 +34,7 @@ def page_url(page, w, h, url, name):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--formats", default="vertical,square")
-    ap.add_argument("--url", default="radyssey.github.io")
+    ap.add_argument("--url", default="radyssey.com/lessons")
     ap.add_argument("--name", default="Radyssey")
     ap.add_argument("--fps", type=int, default=30)
     ap.add_argument("--crf", type=int, default=20)
