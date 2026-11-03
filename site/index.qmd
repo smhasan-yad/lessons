@@ -25,7 +25,7 @@ html-math-method: plain
   <div>
     <p class="rv-h1" role="heading" aria-level="1">Don't read about it. <em>Drag it.</em></p>
     <p class="lede">Every Radyssey lesson is a real image you can work on. Try it here: drag the <span class="c-roof">bony rim</span> and watch the angle it makes with the <span class="c-base">baseline</span> decide the hip type.</p>
-    <a class="md-btn filled" href="lessons/graf-hip-ultrasound/"><svg viewBox="0 -960 960 960" aria-hidden="true"><path d="M320-200v-560l440 280-440 280Z"/></svg>Start the Graf lesson</a>
+    <a class="md-btn filled" href="graf-hip-ultrasound/"><svg viewBox="0 -960 960 960" aria-hidden="true"><path d="M320-200v-560l440 280-440 280Z"/></svg>Start the Graf lesson</a>
     <p class="small">Free · works on your phone · no sign-up</p>
   </div>
   <div class="toy">

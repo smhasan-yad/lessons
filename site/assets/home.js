@@ -63,7 +63,7 @@
 
   // ---- lesson cards: "Continue at step N" and the quiz score, from progress kept in this browser ----
   // (the whole card is already the link, so the chips are plain labels inside it)
-  const LESSONS = { graf: { href: 'lessons/graf-hip-ultrasound/', steps: 12 } };
+  const LESSONS = { graf: { href: 'graf-hip-ultrasound/', steps: 12 } };
   for (const [id, L] of Object.entries(LESSONS)) {
     let p = {};
     try { p = JSON.parse(localStorage.getItem('radyssey:' + id)) || {}; } catch (e) { /* storage blocked: no chips */ }
