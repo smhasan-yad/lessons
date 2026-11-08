@@ -1,0 +1,116 @@
+assets/BodyParts3D_data/stl/FMA10014.stl	FMA10014	ninth thoracic vertebra
+assets/BodyParts3D_data/stl/FMA10037.stl	FMA10037	tenth thoracic vertebra
+assets/BodyParts3D_data/stl/FMA10059.stl	FMA10059	eleventh thoracic vertebra
+assets/BodyParts3D_data/stl/FMA10081.stl	FMA10081	twelfth thoracic vertebra
+assets/BodyParts3D_data/stl/FMA10951.stl	FMA10951	inferior vena cava
+assets/BodyParts3D_data/stl/FMA12525.stl	FMA12525	seventh cervical vertebra
+assets/BodyParts3D_data/stl/FMA13072.stl	FMA13072	first lumbar vertebra
+assets/BodyParts3D_data/stl/FMA13073.stl	FMA13073	second lumbar vertebra
+assets/BodyParts3D_data/stl/FMA13074.stl	FMA13074	third lumbar vertebra
+assets/BodyParts3D_data/stl/FMA13075.stl	FMA13075	fourth lumbar vertebra
+assets/BodyParts3D_data/stl/FMA13076.stl	FMA13076	fifth lumbar vertebra
+assets/BodyParts3D_data/stl/FMA13322.stl	FMA13322	right clavicle
+assets/BodyParts3D_data/stl/FMA13323.stl	FMA13323	left clavicle
+assets/BodyParts3D_data/stl/FMA14331.stl	FMA14331	splenic vein
+assets/BodyParts3D_data/stl/FMA14332.stl	FMA14332	superior mesenteric vein
+assets/BodyParts3D_data/stl/FMA14335.stl	FMA14335	right renal vein
+assets/BodyParts3D_data/stl/FMA14336.stl	FMA14336	left renal vein
+assets/BodyParts3D_data/stl/FMA14543nsn.stl	FMA14543nsn	colon, nsn
+assets/BodyParts3D_data/stl/FMA14749.stl	FMA14749	superior mesenteric artery
+assets/BodyParts3D_data/stl/FMA14750.stl	FMA14750	inferior mesenteric artery
+assets/BodyParts3D_data/stl/FMA14752.stl	FMA14752	right renal artery
+assets/BodyParts3D_data/stl/FMA14753.stl	FMA14753	left renal artery
+assets/BodyParts3D_data/stl/FMA14765.stl	FMA14765	right common iliac artery
+assets/BodyParts3D_data/stl/FMA14766.stl	FMA14766	left common iliac artery
+assets/BodyParts3D_data/stl/FMA14768.stl	FMA14768	left gastric artery
+assets/BodyParts3D_data/stl/FMA14771.stl	FMA14771	common hepatic artery
+assets/BodyParts3D_data/stl/FMA14773.stl	FMA14773	splenic artery
+assets/BodyParts3D_data/stl/FMA15900.stl	FMA15900	urinary bladder
+assets/BodyParts3D_data/stl/FMA16202.stl	FMA16202	sacrum
+assets/BodyParts3D_data/stl/FMA16586.stl	FMA16586	right hip bone
+assets/BodyParts3D_data/stl/FMA16587.stl	FMA16587	left hip bone
+assets/BodyParts3D_data/stl/FMA18806.stl	FMA18806	right external iliac artery
+assets/BodyParts3D_data/stl/FMA18807.stl	FMA18807	left external iliac artery
+assets/BodyParts3D_data/stl/FMA18809.stl	FMA18809	right internal iliac artery
+assets/BodyParts3D_data/stl/FMA18810.stl	FMA18810	left internal iliac artery
+assets/BodyParts3D_data/stl/FMA18885.stl	FMA18885	right external iliac vein
+assets/BodyParts3D_data/stl/FMA18886.stl	FMA18886	left external iliac vein
+assets/BodyParts3D_data/stl/FMA18887.stl	FMA18887	right internal iliac vein
+assets/BodyParts3D_data/stl/FMA18888.stl	FMA18888	left internal iliac vein
+assets/BodyParts3D_data/stl/FMA21387.stl	FMA21387	right common iliac vein
+assets/BodyParts3D_data/stl/FMA21388.stl	FMA21388	left common iliac vein
+assets/BodyParts3D_data/stl/FMA23130.stl	FMA23130	right humerus
+assets/BodyParts3D_data/stl/FMA23131.stl	FMA23131	left humerus
+assets/BodyParts3D_data/stl/FMA23464.stl	FMA23464	right radius
+assets/BodyParts3D_data/stl/FMA23465.stl	FMA23465	left radius
+assets/BodyParts3D_data/stl/FMA23467.stl	FMA23467	right ulna
+assets/BodyParts3D_data/stl/FMA23468.stl	FMA23468	left ulna
+assets/BodyParts3D_data/stl/FMA24474.stl	FMA24474	right femur
+assets/BodyParts3D_data/stl/FMA24475.stl	FMA24475	left femur
+assets/BodyParts3D_data/stl/FMA24477.stl	FMA24477	right tibia
+assets/BodyParts3D_data/stl/FMA24478.stl	FMA24478	left tibia
+assets/BodyParts3D_data/stl/FMA24480.stl	FMA24480	right fibula
+assets/BodyParts3D_data/stl/FMA24481.stl	FMA24481	left fibula
+assets/BodyParts3D_data/stl/FMA3736.stl	FMA3736	ascending aorta
+assets/BodyParts3D_data/stl/FMA3768.stl	FMA3768	arch of aorta
+assets/BodyParts3D_data/stl/FMA3784.stl	FMA3784	descending aorta
+assets/BodyParts3D_data/stl/FMA3932nsn.stl	FMA3932nsn	brachiocephalic artery, nsn
+assets/BodyParts3D_data/stl/FMA3941.stl	FMA3941	right common carotid artery
+assets/BodyParts3D_data/stl/FMA3953.stl	FMA3953	right subclavian artery
+assets/BodyParts3D_data/stl/FMA4058.stl	FMA4058	left common carotid artery
+assets/BodyParts3D_data/stl/FMA4694.stl	FMA4694	left subclavian artery
+assets/BodyParts3D_data/stl/FMA4720.stl	FMA4720	superior vena cava
+assets/BodyParts3D_data/stl/FMA4751.stl	FMA4751	right brachiocephalic vein
+assets/BodyParts3D_data/stl/FMA4754.stl	FMA4754	right internal jugular vein
+assets/BodyParts3D_data/stl/FMA4755.stl	FMA4755	right subclavian vein
+assets/BodyParts3D_data/stl/FMA4761.stl	FMA4761	left brachiocephalic vein
+assets/BodyParts3D_data/stl/FMA4762.stl	FMA4762	left internal jugular vein
+assets/BodyParts3D_data/stl/FMA4763.stl	FMA4763	left subclavian vein
+assets/BodyParts3D_data/stl/FMA50737.stl	FMA50737	celiac artery
+assets/BodyParts3D_data/stl/FMA7148.stl	FMA7148	stomach
+assets/BodyParts3D_data/stl/FMA7196.stl	FMA7196	spleen
+assets/BodyParts3D_data/stl/FMA7197.stl	FMA7197	liver
+assets/BodyParts3D_data/stl/FMA7198nsn.stl	FMA7198nsn	pancreas, nsn
+assets/BodyParts3D_data/stl/FMA7202.stl	FMA7202	gallbladder
+assets/BodyParts3D_data/stl/FMA7204.stl	FMA7204	right kidney
+assets/BodyParts3D_data/stl/FMA7205.stl	FMA7205	left kidney
+assets/BodyParts3D_data/stl/FMA7206.stl	FMA7206	duodenum
+assets/BodyParts3D_data/stl/FMA7274.stl	FMA7274	wall of heart
+assets/BodyParts3D_data/stl/FMA7333.stl	FMA7333	upper lobe of right lung
+assets/BodyParts3D_data/stl/FMA7337.stl	FMA7337	lower lobe of right lung
+assets/BodyParts3D_data/stl/FMA7370.stl	FMA7370	upper lobe of left lung
+assets/BodyParts3D_data/stl/FMA7371.stl	FMA7371	lower lobe of left lung
+assets/BodyParts3D_data/stl/FMA7383.stl	FMA7383	middle lobe of lung
+assets/BodyParts3D_data/stl/FMA7487.stl	FMA7487	body of sternum
+assets/BodyParts3D_data/stl/FMA7857.stl	FMA7857	right first rib
+assets/BodyParts3D_data/stl/FMA7882.stl	FMA7882	right second rib
+assets/BodyParts3D_data/stl/FMA7909.stl	FMA7909	right third rib
+assets/BodyParts3D_data/stl/FMA7957.stl	FMA7957	right fourth rib
+assets/BodyParts3D_data/stl/FMA7987.stl	FMA7987	left first rib
+assets/BodyParts3D_data/stl/FMA8012.stl	FMA8012	left second rib
+assets/BodyParts3D_data/stl/FMA8039.stl	FMA8039	left third rib
+assets/BodyParts3D_data/stl/FMA8066.stl	FMA8066	right fifth rib
+assets/BodyParts3D_data/stl/FMA8093.stl	FMA8093	left fifth rib
+assets/BodyParts3D_data/stl/FMA8148.stl	FMA8148	left fourth rib
+assets/BodyParts3D_data/stl/FMA8175.stl	FMA8175	right sixth rib
+assets/BodyParts3D_data/stl/FMA8202.stl	FMA8202	left sixth rib
+assets/BodyParts3D_data/stl/FMA8229.stl	FMA8229	right seventh rib
+assets/BodyParts3D_data/stl/FMA8256.stl	FMA8256	left seventh rib
+assets/BodyParts3D_data/stl/FMA8283.stl	FMA8283	right eighth rib
+assets/BodyParts3D_data/stl/FMA8310.stl	FMA8310	left eighth rib
+assets/BodyParts3D_data/stl/FMA8364.stl	FMA8364	right ninth rib
+assets/BodyParts3D_data/stl/FMA8391.stl	FMA8391	left ninth rib
+assets/BodyParts3D_data/stl/FMA8445.stl	FMA8445	right tenth rib
+assets/BodyParts3D_data/stl/FMA8472.stl	FMA8472	left tenth rib
+assets/BodyParts3D_data/stl/FMA8531.stl	FMA8531	right eleventh rib
+assets/BodyParts3D_data/stl/FMA8532.stl	FMA8532	left eleventh rib
+assets/BodyParts3D_data/stl/FMA8533.stl	FMA8533	right twelfth rib
+assets/BodyParts3D_data/stl/FMA8534.stl	FMA8534	left twelfth rib
+assets/BodyParts3D_data/stl/FMA9165.stl	FMA9165	first thoracic vertebra
+assets/BodyParts3D_data/stl/FMA9187.stl	FMA9187	second thoracic vertebra
+assets/BodyParts3D_data/stl/FMA9209.stl	FMA9209	third thoracic vertebra
+assets/BodyParts3D_data/stl/FMA9248.stl	FMA9248	fourth thoracic vertebra
+assets/BodyParts3D_data/stl/FMA9922.stl	FMA9922	fifth thoracic vertebra
+assets/BodyParts3D_data/stl/FMA9945.stl	FMA9945	sixth thoracic vertebra
+assets/BodyParts3D_data/stl/FMA9968.stl	FMA9968	seventh thoracic vertebra
+assets/BodyParts3D_data/stl/FMA9991.stl	FMA9991	eighth thoracic vertebra

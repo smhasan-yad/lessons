@@ -1,0 +1,21 @@
+Interventional radiology: an interactive atlas (Radyssey)
+https://www.radyssey.com/lessons/interventional-radiology/
+
+3D anatomy
+  The bone, organ and major-vessel meshes in js/anatomy_meshes.js are simplified from
+  BodyParts3D, (c) The Database Center for Life Science, licensed under
+  Creative Commons Attribution-Share Alike 2.1 Japan (CC BY-SA 2.1 JP).
+  https://lifesciencedb.jp/bp3d/   https://creativecommons.org/licenses/by-sa/2.1/jp/
+  As a derived work, js/anatomy_meshes.js is shared under the same licence.
+
+Libraries
+  three.js r128 and OrbitControls (lib/), (c) three.js authors, MIT licence.
+  https://github.com/mrdoob/three.js
+
+Sources
+  Written as a study companion to Core Radiology: A Visual Approach to Diagnostic Imaging,
+  2nd ed., chapter 9. Page numbers refer to that book. Its text and figures are not reproduced.
+  "From Sutton" boxes are paraphrased from Sutton, Textbook of Radiology and Imaging.
+  Physiology values used by the DSA simulator are approximate textbook values for learning only.
+
+For education only, not clinical advice.

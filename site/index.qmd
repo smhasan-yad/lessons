@@ -1,6 +1,6 @@
 ---
 pagetitle: "Radyssey"
-description: "Free interactive radiology lessons for residents. One real image per lesson, overlays you can move, and a self-test."
+description: "Free interactive radiology lessons for residents: real images and 3D anatomy you can work on, overlays you can move, and self-tests."
 listing:
   id: lessons
   contents: lessons.yml
@@ -24,8 +24,9 @@ html-math-method: plain
 <section class="rv-hero">
   <div>
     <p class="rv-h1" role="heading" aria-level="1">Don't read about it. <em>Drag it.</em></p>
-    <p class="lede">Every Radyssey lesson is a real image you can work on. Try it here: drag the <span class="c-roof">bony rim</span> and watch the angle it makes with the <span class="c-base">baseline</span> decide the hip type.</p>
+    <p class="lede">Every Radyssey lesson is something you work on, not just read. Try it here: drag the <span class="c-roof">bony rim</span> and watch the angle it makes with the <span class="c-base">baseline</span> decide the hip type.</p>
     <a class="md-btn filled" href="graf-hip-ultrasound/"><svg viewBox="0 -960 960 960" aria-hidden="true"><path d="M320-200v-560l440 280-440 280Z"/></svg>Start the Graf lesson</a>
+    <a class="md-btn outlined" href="interventional-radiology/">Explore the IR atlas</a>
     <p class="small">Free · works on your phone · no sign-up</p>
   </div>
   <div class="toy">
@@ -54,7 +55,7 @@ html-math-method: plain
   </div>
 </section>
 <h2 class="rv-sec">Lessons</h2>
-<p class="rv-sec-sub">Each lesson is one real image: work through the steps, move the overlays, then test yourself.</p>
+<p class="rv-sec-sub">Each lesson is hands-on: work through it, move things, then test yourself.</p>
 ```
 
 ::: {#lessons}

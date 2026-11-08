@@ -4,12 +4,12 @@ title: "About"
 
 Radyssey is a free set of interactive lessons for radiology residents, written by Hasan, a fellow radiology resident.
 
-Each lesson takes one real image and teaches a technique on it, step by step. The overlays are drawn over the image, and some have handles you can drag, sliders and a short self-test. The lessons work in a phone browser and need no sign-up.
+Every lesson is hands-on. Some take one real image and teach a technique on it step by step, with overlays you can drag, sliders and a short self-test. Others are larger atlases, with 3D anatomy, simulators and a question bank. The lessons work in a phone browser and need no sign-up. Your progress stays in your own browser.
 
 **How the lessons are made**
 
-- Images are openly licensed (for example CC BY) and credited on the page, or drawn by the author. No patient data is used.
-- Facts are cited to primary sources. Teaching points that were not checked against a source are marked "general knowledge".
+- Images and models are openly licensed (for example CC BY or CC BY-SA) and credited on the page, or made by the author. No patient data is used.
+- Facts are cited to their sources: papers, guidelines, or standard textbooks with page numbers. Textbook text and figures are not reproduced. Teaching points that were not checked against a source are marked "general knowledge".
 - There are no ads and no tracking.
 
 **Feedback.** Corrections and requests for topics are welcome.

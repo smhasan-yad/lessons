@@ -74,4 +74,16 @@
     if (p.answered) { const q = document.createElement('span'); q.className = 'rv-chip'; q.textContent = p.answered === p.total ? `Quiz ${p.score} / ${p.total}` : `Quiz ${p.answered} of ${p.total} answered`; row.append(q); }
     (card.querySelector('.card-body') || card).append(row);
   }
+
+  // ---- IR atlas card: topics learned, from the atlas's own progress store ----
+  try {
+    const s = JSON.parse(localStorage.getItem('ir-atlas-v1')) || {};
+    const n = Object.values(s.learned || {}).filter(Boolean).length;
+    const link = document.querySelector('#listing-lessons a[href*="interventional-radiology/"]'), card = link && (link.querySelector('.quarto-grid-item') || link.closest('.quarto-grid-item'));
+    if (card && n) {
+      const row = document.createElement('div'); row.className = 'rv-progress';
+      const a = document.createElement('span'); a.className = 'rv-chip on'; a.textContent = `${n} topic${n === 1 ? '' : 's'} learned`; row.append(a);
+      (card.querySelector('.card-body') || card).append(row);
+    }
+  } catch (e) { /* storage blocked: no chip */ }
 })();

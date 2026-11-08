@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - graf-hip-ultrasound/**
+    - interventional-radiology/**
     - logo.svg
     - logo-dark.svg
     - fonts/**
@@ -9,7 +10,7 @@ project:
 
 website:
   title: "Radyssey"
-  description: "Free interactive radiology lessons for residents: real images, overlays you can move, and self-tests."
+  description: "Free interactive radiology lessons for residents: real images and 3D anatomy you can work on, and self-tests."
   # RSS and share links use this. The company site on Vercel rewrites /lessons/* to GitHub Pages.
   site-url: https://www.radyssey.com/lessons
   favicon: favicon.svg

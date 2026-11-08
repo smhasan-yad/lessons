@@ -1,4 +1,10 @@
 # The lessons on the home page. Each entry links straight to its single interactive lesson page.
+- title: "Interventional radiology: an interactive atlas"
+  description: "The core of IR, hands-on: 3D vascular anatomy, a DSA run simulator with guided cases, 37 tools from femoral puncture to TIPS, 235 board-style questions and spaced-repetition flashcards."
+  date: 2026-11-08
+  path: interventional-radiology/index.html
+  image: interventional-radiology/card.png
+  image-alt: "Interventional radiology atlas: a 3D vascular tree beside a simulated digital subtraction angiogram"
 - title: "Graf hip ultrasound: learn it on one image"
   description: "An interactive lesson on the Graf method for infant hip ultrasound: orientation, anatomy, the usability check, the three lines, α and β, and the types, all on one real image."
   date: 2026-10-26
